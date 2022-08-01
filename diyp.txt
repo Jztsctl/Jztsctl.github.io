@@ -84,7 +84,7 @@ GTV游戏竞技-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/888
 云南卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
 北京冬奥纪实,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
 嘉佳卡通-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226744/index.m3u8
-卡酷少儿-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
+卡酷少儿-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 优漫卡通-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226768/index.m3u8
 金鹰纪实,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 金鹰卡通,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226845/index.m3u8
