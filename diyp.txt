@@ -61,7 +61,9 @@ GTV游戏竞技-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/888
 浙江卫视,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 重庆卫视,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226737/index.m3u8
 贵州卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226746/10000100000000060000000006519582_0.smil
-兵团卫视-标清,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 东南卫视,http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225914/index.m3u8?fmt=ts2hls
 甘肃卫视,http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/index.m3u8?fmt=ts2hls
 广西卫视,http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
