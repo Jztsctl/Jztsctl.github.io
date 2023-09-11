@@ -26,7 +26,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001#http://123.125.172.130:808/hls/125/index.m3u8
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2#http://beifeng.site:4000/udp/239.3.1.250:8001#http://123.125.172.130:808/hls/125/index.m3u8
 淘剧场,http://beifeng.site:4000/udp/239.3.1.95:8001#http://123.125.172.130:808/hls/124/index.m3u8
 欢笑剧场4K,http://[2409:8087:1414:22::112d]/PLTV/88888888/224/3221226687/index.m3u8
 爱映画,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
