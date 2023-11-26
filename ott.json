@@ -2,10 +2,10 @@
   "lives": [
     {
       "name": "TXT",
+      "boot": true,
       "url": "https://jztsctl.github.io/LNly.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "boot": true
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
