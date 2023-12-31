@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "TXT",
-      "boot": true,
+      "boot": false,
       "url": "https://jztsctl.github.io/bfy.txt",
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
