@@ -35,7 +35,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226841/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://jztsctl.github.io/tvg/CCTV-5+tiyusaishi.png" group-title="央视频道",CCTV-5+体育赛事
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226745/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://jztsctl.github.io/tvg/CCTV-4Kchaogaoqingpindao.png" group-title="央视频道",CCTV-4K超高清频道
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://jztsctl.github.io/tvg/CCTV-4Kchaogaoqingpindao.png" group-title="测试频道",CCTV-4K超高清频道
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="CETV1" tvg-logo="https://jztsctl.github.io/tvg/CETV-1.png" group-title="央视频道",CETV-1
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
