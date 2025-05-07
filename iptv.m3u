@@ -87,11 +87,11 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="阜新综合" tvg-logo="https://jztsctl.github.io/tvg/fuxinjiaoyu.png" group-title="辽宁频道",阜新综合
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="阜新教育" tvg-logo="https://jztsctl.github.io/tvg/fuxinjiaoyu.png" group-title="辽宁频道",阜新教育
+#EXTINF:-1 tvg-id="9999" tvg-name="阜新教育" tvg-logo="https://jztsctl.github.io/tvg/fuxinjiaoyuzonghe.png" group-title="辽宁频道",阜新教育
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227498/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="盘锦新闻综合" tvg-logo="https://jztsctl.github.io/tvg/panjinxinwenzonghe.png" group-title="辽宁频道",盘锦新闻综合
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227529/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="盘锦都市" tvg-logo="https://jztsctl.github.io/tvg/panjinxinwenzonghe.png" group-title="辽宁频道",盘锦都市
+#EXTINF:-1 tvg-id="9999" tvg-name="盘锦都市" tvg-logo="https://jztsctl.github.io/tvg/panjindushi.png" group-title="辽宁频道",盘锦都市
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227495/index.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://jztsctl.github.io/tvg/liaoningweishi.png" group-title="辽宁频道",辽宁卫视
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
@@ -241,7 +241,7 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227493/index.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="国学" tvg-logo="https://jztsctl.github.io/tvg/guoxuepindao.png" group-title="特色频道",国学频道
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227435/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="至臻视界" tvg-logo="https://jztsctl.github.io/tvg/yidongyunVR.png" group-title="特色频道",至臻视界
+#EXTINF:-1 tvg-id="9999" tvg-name="至臻视界" tvg-logo="https://jztsctl.github.io/tvg/zhizhenshijie.png" group-title="特色频道",至臻视界
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="聚鲨环球精选" tvg-logo="https://jztsctl.github.io/tvg/jushahuanqiujingxuan.png" group-title="购物频道",聚鲨环球精选
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
