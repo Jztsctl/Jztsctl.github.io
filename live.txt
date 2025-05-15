@@ -53,6 +53,7 @@
 遮天-106,http://hwottcdn.ln.chinamobile.com/34/16/20250423/281321673/index.m3u8
 遮天-107,http://hwottcdn.ln.chinamobile.com/34/16/20250430/281367829/index.m3u8
 遮天-108,http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390953/index.m3u8
+遮天-109,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281428849/index.m3u8
 
 仙逆,#genre#
 仙逆,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
