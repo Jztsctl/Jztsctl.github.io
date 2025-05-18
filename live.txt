@@ -12,6 +12,7 @@
 奔跑吧-2-250425,http://hwottcdn.ln.chinamobile.com/36/16/20250426/281339375/index.m3u8
 奔跑吧-3-250502,http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374869/index.m3u8
 奔跑吧-4-250509,http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405514/index.m3u8
+奔跑吧-5-250517,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281449080/index.m3u8
 
 天赐的声音第六季,#genre#
 天赐的声音第六季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -19,6 +20,7 @@
 天赐的声音-2,http://hwottcdn.ln.chinamobile.com/36/16/20250426/281345179/index.m3u8
 天赐的声音-3,http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374866/index.m3u8
 天赐的声音-4,http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405511/index.m3u8
+天赐的声音-5,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281446118/index.m3u8
 
 哈哈哈哈哈第五季,#genre#
 哈哈哈哈哈第五季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -32,6 +34,8 @@
 五哈-4下,http://hwottcdn.ln.chinamobile.com/34/16/20250504/281379904/index.m3u8
 五哈-5上,http://hwottcdn.ln.chinamobile.com/34/16/20250510/281405766/index.m3u8
 五哈-5下,http://hwottcdn.ln.chinamobile.com/34/16/20250511/281404550/index.m3u8
+五哈-6上,http://hwottcdn.ln.chinamobile.com/34/16/20250517/281445944/index.m3u8
+五哈-6下,http://hwottcdn.ln.chinamobile.com/34/16/20250518/281453878/index.m3u8
 
 遮天,#genre#
 遮天,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -105,6 +109,14 @@
 刑警的日子-15,http://hwottcdn.ln.chinamobile.com/34/16/20250511/281405051/index.m3u8
 刑警的日子-16,http://hwottcdn.ln.chinamobile.com/34/16/20250512/281411471/index.m3u8
 刑警的日子-17,http://hwottcdn.ln.chinamobile.com/34/16/20250512/281417827/index.m3u8
+刑警的日子-18,http://hwottcdn.ln.chinamobile.com/34/16/20250513/281426095/index.m3u8
+刑警的日子-19,http://hwottcdn.ln.chinamobile.com/34/16/20250513/281426092/index.m3u8
+刑警的日子-20,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281434177/index.m3u8
+刑警的日子-21,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281434174/index.m3u8
+刑警的日子-22,http://hwottcdn.ln.chinamobile.com/34/16/20250515/281436698/index.m3u8
+刑警的日子-23,http://hwottcdn.ln.chinamobile.com/34/16/20250515/281436695/index.m3u8
+刑警的日子-24,http://hwottcdn.ln.chinamobile.com/34/16/20250516/281443499/index.m3u8
+刑警的日子-25,http://hwottcdn.ln.chinamobile.com/34/16/20250516/281449846/index.m3u8
 
 海绵宝宝第十二季,#genre#
 海绵宝宝第十二季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
