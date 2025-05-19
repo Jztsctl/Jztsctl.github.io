@@ -46,17 +46,17 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="CETV4" tvg-logo="https://jztsctl.github.io/tvg/CETV-4.png" group-title="央视频道",CETV-4
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://jztsctl.github.io/tvg/fenghuangweishixianggangtai.png" group-title="测试频道",凤凰卫视香港台
-http://110.235.82.60:8001/bysid/85
+http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://jztsctl.github.io/tvg/fenghuangweishizhongwentai.png" group-title="测试频道",凤凰卫视中文台
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://jztsctl.github.io/tvg/fenghuangweishizixuntai.png" group-title="测试频道",凤凰卫视资讯台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 #EXTINF:-1 tvg-id="377" tvg-name="北京淘电影" tvg-logo="https://jztsctl.github.io/tvg/taodianying.png" group-title="测试频道",淘电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
 #EXTINF:-1 tvg-id="9999" tvg-name="1905国际电影" tvg-logo="https://jztsctl.github.io/tvg/1905.png" group-title="测试频道",1905国际电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="9999" tvg-name="1905亚洲电影" tvg-logo="https://jztsctl.github.io/tvg/1905.png" group-title="测试频道",1905亚洲电影
-http://php.jdshipin.com:8880/1905.php?id=1905dy
+http://150.138.77.132:10037/1905电影网.php?id=1905a
 #EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://jztsctl.github.io/tvg/CHCyingmidianying.png" group-title="特色频道",CHC影迷电影
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://jztsctl.github.io/tvg/CHCdongzuodianying.png" group-title="特色频道",CHC动作电影
